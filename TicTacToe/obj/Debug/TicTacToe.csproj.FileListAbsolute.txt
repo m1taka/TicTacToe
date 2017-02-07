@@ -1,0 +1,33 @@
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Лукарски\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\VSProjects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\VSProjects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\VSProjects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\VSProjects\TicTacToe\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\VSProjects\TicTacToe\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\VSProjects\TicTacToe\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\GitHub\TicTacToe\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\GitHub\TicTacToe\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\GitHub\TicTacToe\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\GitHub\TicTacToe\WindowsFormsApplication6\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\GitHub\TicTacToe\WindowsFormsApplication6\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+D:\GitHub\TicTacToe\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\GitHub\TicTacToe\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\GitHub\TicTacToe\WindowsFormsApplication6\obj\Debug\TicTacToeGame.TicTacToeForm.resources
+D:\GitHub\TicTacToe\WindowsFormsApplication6\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\GitHub\TicTacToe\TicTacToe\bin\Debug\WindowsFormsApplication6.exe.config
+D:\GitHub\TicTacToe\TicTacToe\bin\Debug\WindowsFormsApplication6.exe
+D:\GitHub\TicTacToe\TicTacToe\bin\Debug\WindowsFormsApplication6.pdb
+D:\GitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\GitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToeGame.TicTacToeForm.resources
+D:\GitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToeGame.Properties.Resources.resources
+D:\GitHub\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+D:\GitHub\TicTacToe\TicTacToe\obj\Debug\WindowsFormsApplication6.exe
+D:\GitHub\TicTacToe\TicTacToe\obj\Debug\WindowsFormsApplication6.pdb
